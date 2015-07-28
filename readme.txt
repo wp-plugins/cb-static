@@ -10,7 +10,6 @@ Contributors: OneMoreNerd
 
 Allows users to create a custom background on a per-post basis.
 
-
 == Description ==
 
 A plugin for allowing users to set a custom background on a per-post basis.  This plugin hooks into the WordPress `custom-background` theme feature and overwrites the values on single post views if the post has been given a custom background.
