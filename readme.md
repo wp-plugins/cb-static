@@ -6,14 +6,16 @@ Tested up to: 4.2.2
 Stable tag: 0.1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Contributors: OneMoreNerd
 
-Allows users to create a custom background on a per-post basis. This plugin is inspired by Justin Tadlocks great plugin named Custom Background Extended. https://github.com/justintadlock/custom-background-extended So donations should take place at http://themehybrid.com/donate
-I just wanted to give it a fresh start.
+Allows users to create a custom background on a per-post basis.
 
 
 == Description ==
 
 A plugin for allowing users to set a custom background on a per-post basis.  This plugin hooks into the WordPress `custom-background` theme feature and overwrites the values on single post views if the post has been given a custom background.
+This plugin is inspired by Justin Tadlocks great plugin named Custom Background Extended. https://github.com/justintadlock/custom-background-extended So donations should take place at http://themehybrid.com/donate
+I just wanted to toy around with it and give it a fresh start.
 
 ### Features ###
 
