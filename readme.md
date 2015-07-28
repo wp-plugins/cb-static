@@ -2,19 +2,17 @@
 
 Tags: post, posts, admin, image, images, background, color, Hintergrund, Bild, Hintergrundbild, eigenes, eigener
 Requires at least: 3.8
-Tested up to: 4.2.2
+Tested up to: 4.2.3
 Stable tag: 0.1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Contributors: OneMoreNerd
 
-Allows users to create a custom background on a per-post basis.
+Allows users to create a custom background on a per-post basis for posts, pages and product pages.
 
 == Description ==
 
 A plugin for allowing users to set a custom background on a per-post basis.  This plugin hooks into the WordPress `custom-background` theme feature and overwrites the values on single post views if the post has been given a custom background.
-This plugin is inspired by Justin Tadlocks great plugin named Custom Background Extended. https://github.com/justintadlock/custom-background-extended So donations should take place at http://themehybrid.com/donate
-I just wanted to toy around with it and give it a fresh start.
 
 ### Features ###
 
@@ -78,6 +76,8 @@ Or, if you have a plugin with post types that you'd like for me to add support f
 ### Can you help me? ###
 
 Unfortunately, I cannot provide free support for this plugin. I honestly wish I could. However, you can go <a href="https://github.com/demispatti/cb-static" target="_blank">here</a> for further informations.
+
+This plugin is inspired by Justin Tadlocks great plugin named Custom Background Extended. https://github.com/justintadlock/custom-background-extended So donations should take place at http://themehybrid.com/donate
 
 == Screenshots ==
 
