@@ -2,24 +2,26 @@
 
 /**
  * The plugin bootstrap file.
- *
+
  * This is a plugin for custom backgrounds on single pages.
  * It requires your theme to support the <a href="http://codex.wordpress.org/Custom_Backgrounds" target="_blank">custom-background</a> feature.
  * Have Fun!
- *
+
  * in memoriam of Fry and Leela ( 1999 to 2013 ) ;-)
- *
+
  * Built with Tom McFarlin's WordPress Plugin Boilerplate in mind -
  * which now is maintained by Devin Vinson.
- *
+
  * https://github.com/DevinVinson/WordPress-Plugin-Boilerplate
+
  *
  * @link              https://github.com/demispatti/cb-static
  * @since             0.1.0
  * @package           cb_static
- *
+
  * @wordpress-plugin
  * Plugin Name:       cbStatic
+ * Contributors:      demispatti
  * Plugin URI:        https://github.com/demispatti/cb-static
  * Description:       Allows users to create <a href="http://codex.wordpress.org/Custom_Backgrounds">custom backgrounds</a> for single posts and pages. It requires your theme to support the WordPress <code>custom-background</code> feature.
  * Author:            Demis Patti <demis@demispatti.ch>
