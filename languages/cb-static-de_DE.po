@@ -1,0 +1,144 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cbStatic\n"
+"POT-Creation-Date: 2015-04-13 12:15+0100\n"
+"PO-Revision-Date: 2015-04-20 13:25+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/class-cb-static-admin.php:135
+msgid "Set Background Image"
+msgstr "Eigenes Hintergrundbild"
+
+#: admin/class-cb-static-admin.php:136
+#: admin/includes/class-cb-static-meta-box.php:240
+msgid "Set background image"
+msgstr "Hintergrundbild hinzufügen"
+
+#: admin/class-cb-static-admin.php:218
+msgid "Plugin support"
+msgstr "Plugin-Unterstützung"
+
+#: admin/class-cb-static-admin.php:219
+msgid "Rate plugin"
+msgstr "Plugin bewerten"
+
+#: admin/class-cb-static-admin.php:220
+msgid "Donate"
+msgstr "Spenden"
+
+#: admin/includes/class-cb-static-meta-box.php:138
+msgid "cb Static Background"
+msgstr "Benutzerdefinierter Hintergrund"
+
+#: admin/includes/class-cb-static-meta-box.php:196
+msgid "no repeat"
+msgstr "no-repeat"
+
+#: admin/includes/class-cb-static-meta-box.php:197
+msgid "repeat"
+msgstr "repeat"
+
+#: admin/includes/class-cb-static-meta-box.php:198
+msgid "repeat horizontally"
+msgstr "Horizontal wiederholen"
+
+#: admin/includes/class-cb-static-meta-box.php:199
+msgid "repeat vertically"
+msgstr "Vertikal wiederholen"
+
+#: admin/includes/class-cb-static-meta-box.php:204
+msgid "left"
+msgstr "links"
+
+#: admin/includes/class-cb-static-meta-box.php:205
+msgid "right"
+msgstr "rechts"
+
+#: admin/includes/class-cb-static-meta-box.php:206
+#: admin/includes/class-cb-static-meta-box.php:213
+msgid "center"
+msgstr "zentriert"
+
+#: admin/includes/class-cb-static-meta-box.php:211
+msgid "top"
+msgstr "oben"
+
+#: admin/includes/class-cb-static-meta-box.php:212
+msgid "bottom"
+msgstr "unten"
+
+#: admin/includes/class-cb-static-meta-box.php:218
+msgid "scroll"
+msgstr "scrollen"
+
+#: admin/includes/class-cb-static-meta-box.php:219
+msgid "fixed"
+msgstr "fixiert"
+
+#: admin/includes/class-cb-static-meta-box.php:229
+msgid "Background Color"
+msgstr "Hintergrundfarbe"
+
+#: admin/includes/class-cb-static-meta-box.php:241
+msgid "Remove background image"
+msgstr "Hintergrundbild entfernen"
+
+#: admin/includes/class-cb-static-meta-box.php:249
+msgid "Repeat"
+msgstr "Repeat"
+
+#: admin/includes/class-cb-static-meta-box.php:259
+msgid "Horizontal Position"
+msgstr "Horizontale Position"
+
+#: admin/includes/class-cb-static-meta-box.php:268
+msgid "Vertical Position"
+msgstr "Vertikale Position"
+
+#: admin/includes/class-cb-static-meta-box.php:277
+msgid "Attachment"
+msgstr "Hintergrundbild-Verhalten"
+
+#~ msgid "No Repeat"
+#~ msgstr "no-repeat"
+
+#~ msgid "Repeat Horizontally"
+#~ msgstr "Horizontal wiederholen"
+
+#~ msgid "Repeat Vertically"
+#~ msgstr "Vertikal wiederholen"
+
+#~ msgid "Left"
+#~ msgstr "links"
+
+#~ msgid "Right"
+#~ msgstr "rechts"
+
+#~ msgid "Center"
+#~ msgstr "zentriert"
+
+#~ msgid "Top"
+#~ msgstr "oben"
+
+#~ msgid "Bottom"
+#~ msgstr "unten"
+
+#~ msgid "Scroll"
+#~ msgstr "scrollen"
+
+#~ msgid "Fixed"
+#~ msgstr "fixiert"
