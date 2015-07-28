@@ -21,7 +21,7 @@
 
  * @wordpress-plugin
  * Plugin Name:       cbStatic
- * Contributors:      demispatti
+ * Contributors:      OneMoreNerd
  * Plugin URI:        https://github.com/demispatti/cb-static
  * Description:       Allows users to create <a href="http://codex.wordpress.org/Custom_Backgrounds">custom backgrounds</a> for single posts and pages. It requires your theme to support the WordPress <code>custom-background</code> feature.
  * Author:            Demis Patti <demis@demispatti.ch>
