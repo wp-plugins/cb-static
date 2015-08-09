@@ -97,7 +97,7 @@ class cb_static_admin {
 
 		require_once plugin_dir_path( dirname( __FILE__ ) ) . "admin/includes/class-cb-static-post-type-support.php";
 
-		require_once plugin_dir_path( dirname( __FILE__ ) ) . "admin/includes/class-cb-static-functionality.php";
+		require_once plugin_dir_path( dirname( __FILE__ ) ) . "admin/includes/class-cb-static-custom-background-support.php";
 
 		require_once plugin_dir_path( dirname( __FILE__ ) ) . "admin/includes/class-cb-static-meta-box.php";
 
