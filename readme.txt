@@ -1,6 +1,8 @@
 === cbStatic ===
 
-Tags: post, posts, admin, image, images, background, color, Hintergrund, Bild, Hintergrundbild, eigenes, eigener  
+Tags: post, posts, admin, image, images, background, color, Hintergrund, Bild, Hintergrundbild, eigenes, eigener
+
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=XLMMS7C62S76Q  
 Requires at least: 3.9  
 Tested up to: 4.3  
 Stable tag: 1.0.0  
